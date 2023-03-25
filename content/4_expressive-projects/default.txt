@@ -1,0 +1,69 @@
+Title: Creative Projects
+
+----
+
+Text: 
+
+(image: creative-lead.png)
+<br>
+(columns…)
+
+# Why this? 🤷🏻‍♂️ 
+
+++++
+
+- Seeing how creative ownership in this space exists 
+- To have a good balance between types of work 
+
+(…columns)
+
+# Projects
+<br>
+## Mailchimp 
+<br>
+(columns…)
+(image: 00_mailchimp_light.gif link: expressive-projects/00_mailchimp_light.gif linkclass: gallery7)
+++++
+
+(image: 04_blocks_light.gif link: expressive-projects/04_blocks_light.gif linkclass: gallery7)
+++++
+
+(image: 05_stripes.gif link: expressive-projects/05_stripes.gif linkclass: gallery7)
+(...columns)
+
+## Program Icons
+
+### Inspiration
+<br>
+(columns…)
+(image: 01.png link: expressive-projects/01.png linkclass: gallery5)
+++++
+
+(image: 02.png link: expressive-projects/02.png linkclass: gallery5)
+
+++++
+
+(image: 03.png link: expressive-projects/03.png linkclass: gallery5)
+(…columns)
+
+### Drafts
+<br>
+<div class="columns">
+<div id="two-columns">
+
+(columns…)
+
+(image: 04.png  link: expressive-projects/04.png linkclass: gallery6)
+++++
+
+(image: 05.png  link: expressive-projects/05.png linkclass: gallery6)
+(…columns)
+(columns…)
+(image: 07.png   link: expressive-projects/07.png linkclass: gallery6)
+++++
+
+(image: 06.png  link: expressive-projects/06.png linkclass: gallery6)
+(…columns)
+</div> 
+</div>
+(image: art-break.png)

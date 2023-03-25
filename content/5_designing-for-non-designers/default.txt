@@ -1,0 +1,95 @@
+Title: Designing For Non-Designers
+
+----
+
+Text: 
+
+(image: nondesign.png)
+<br>
+(columns…)
+
+# Why this? 🤷🏻‍♂️ 
+
+++++
+
+- Continue developing as a designer 
+- Be more intentional about how my design work fits into systems
+- Supporting a bigger cause
+
+(…columns)
+
+# Projects
+<br>
+## Findings at a Glance
+Rethinking Program and Evaluation's Findings at a Glance Sheet. 
+<br>
+(columns…)
+### Original
+++++
+
+(image: screen-shot-2019-05-30-at-3.32.59-pm.png link: designing-for-non-designers/screen-shot-2019-05-30-at-3.32.59-pm.png linkclass: gallery1)
+
+++++
+
+(image: screen-shot-2019-05-30-at-3.33.06-pm.png link: designing-for-non-designers/screen-shot-2019-05-30-at-3.33.06-pm.png linkclass: gallery1)
+
+(…columns)
+
+### Redesign
+<br>
+(columns…)
+
+(image: screen-shot-2019-05-30-at-3.34.53-pm.png link: designing-for-non-designers/screen-shot-2019-05-30-at-3.34.53-pm.png linkclass: gallery2)
+
+++++
+
+(image: screen-shot-2019-05-30-at-3.35.00-pm.png link: designing-for-non-designers/screen-shot-2019-05-30-at-3.35.00-pm.png linkclass: gallery2)
+
+++++
+
+(image: screen-shot-2019-05-30-at-3.35.06-pm.png link: designing-for-non-designers/screen-shot-2019-05-30-at-3.35.06-pm.png linkclass: gallery2)
+(…columns)
+
+## NYC Opportunity Deck Template
+<br>
+### Original
+<br>
+<div class="columns">
+<div id="two-columns">
+(columns…)
+(image: 01.png link: designing-for-non-designers/01.png linkclass: gallery4)
+++++
+
+(image: 02.png link: designing-for-non-designers/02.png linkclass: gallery4)
+(…columns)
+(columns…)
+
+(image: 03.png link: designing-for-non-designers/03.png linkclass: gallery4)
+++++
+
+(image: 04.png link: designing-for-non-designers/04.png linkclass: gallery4)
+(…columns)
+</div>
+</div>
+
+### Redesign
+<br>
+<div class="columns">
+<div id="two-columns">
+(columns…)
+(image: screen-shot-2019-05-30-at-5.21.31-pm.png link: designing-for-non-designers/screen-shot-2019-05-30-at-5.21.31-pm.png linkclass: gallery3)
+
+++++
+
+(image: screen-shot-2019-05-30-at-5.21.37-pm.png link: designing-for-non-designers/screen-shot-2019-05-30-at-5.21.37-pm.png linkclass: gallery3)
+(…columns)
+(columns…)
+
+(image: screen-shot-2019-05-30-at-5.22.01-pm.png link: designing-for-non-designers/screen-shot-2019-05-30-at-5.22.01-pm.png linkclass: gallery3)
+++++
+
+(image: screen-shot-2019-05-30-at-5.22.08-pm.png link: designing-for-non-designers/screen-shot-2019-05-30-at-5.22.08-pm.png linkclass: gallery3)
+(…columns)
+</div>
+</div>
+(image: hand-break.png)

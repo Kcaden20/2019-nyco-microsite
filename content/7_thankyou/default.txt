@@ -1,0 +1,27 @@
+Title: Thank you All!
+
+----
+
+Text: 
+
+(image: thanks.png)
+<br>
+#I would like to extend the following thanks 🎉
+<br>
+(columns…)
+- Mari for her patience and direction
+- Caroline for her support 
+- Tim and Emily for their experience 
+
+++++
+
+- Ryan for his passion 
+- Matt and Bonnie for their time and feedback 
+- All the fellow fellows for the community 
+
+(…columns)
+<br> 
+
+#And the entire NYC Opportunity Office for giving me this NYC Opportunity! Thank you 🙇🏻
+<br>
+(image: five.png)

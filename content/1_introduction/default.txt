@@ -1,0 +1,25 @@
+Title: Introduction
+
+----
+
+Text: 
+
+(columns…)
+
+# How did I get here?
+<br>
+I came here from working independently the last couple of years. I worked primarily with:
+<br> 
+- Non-Profits 
+- Cultural Institutions
+- Educational Organizations
+<br> 
+
+I had followed the Service Design Studio for years and after seeing an opening for the Apprenticeship, I thought it was time to try out. 
+++++
+
+(image: mtc.png)
+
+
+(…columns)
+(image: cloud-break.png)
